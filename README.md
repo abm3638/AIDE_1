@@ -1,5 +1,5 @@
 # AIDE_introduce
 
 NAME: an byeyoungmin  
-MAJOR: AI-BIGDATA
+MAJOR: AI-BIGDATA  
 I study at Kookmin University
