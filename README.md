@@ -7,3 +7,5 @@ major: AI-BIGDATA
 I study at Kookmin University  
 
 20240527
+
+2nd update
