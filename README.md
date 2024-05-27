@@ -1,6 +1,6 @@
 # AIDE_introduce
 
-name: An ByeyoungMin  
+name: An ByeoungMin  
 
 major: AI-BIGDATA  
 
