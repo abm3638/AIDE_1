@@ -8,4 +8,6 @@ I study at Kookmin University
 
 20240527
 
-2nd update
+2nd update  
+
+## 1. 취미 업데이트
